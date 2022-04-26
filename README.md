@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @TzoyBe
-- 👀 I’m interested in 
-- 🌱 I’m currently learning php and mysql for now
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning php & mysql for now
+- 📫 You can reach me https://www.linkedin.com/in/tzouvelekisnick/
 
 <!---
 TzoyBe/TzoyBe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
